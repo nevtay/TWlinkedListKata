@@ -1,0 +1,1 @@
+A linked list kata provided by ThoughtWorks for the 2020 Jan Batch. Jest testing framework used to validate answers.
